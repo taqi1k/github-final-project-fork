@@ -1,16 +1,9 @@
 # github-final-project
 
-Which command can a repository administrator use to allow anonymous downloads from repositories?
-
-1 point
-
-git-shell
-
-
-git-am
-
-
-git-daemon
-
-
-git-rerere
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
